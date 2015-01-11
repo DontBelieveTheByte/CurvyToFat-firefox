@@ -1,0 +1,11 @@
+{
+  "name": "curvy_to_fat",
+  "title": "CurvyToFat",
+  "id": "jid1-lBK6wjfG8xBjkw",
+  "description": "Replaces the text 'curvy' with 'fat' and 'fat' with 'honest'.",
+  "author": "DontBelieveTheByte",
+  "license": "MPL 2.0",
+  "version": "1.0",
+  "icon": "data/icon32.png",
+  "icon48": "data/icon48.png"
+}
