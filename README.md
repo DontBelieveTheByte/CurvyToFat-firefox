@@ -4,7 +4,7 @@
 
 Firefox extension that replaces occurrences of 'curvy' with 'fat' and 'fat' with 'honest'.
 
-[Direct download of crx file](/CurvyToFat.xpi?raw=true)
+[Direct download of crx file](/CurvyToFat.xpi?raw=true) or from the [Mozilla Add-Ons website](https://addons.mozilla.org/en-US/firefox/addon/curvytofat/)
 
 Chrome version is [here](https://github.com/DontBelieveTheByte/CurvyToFat). 
 
