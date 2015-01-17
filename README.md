@@ -4,13 +4,24 @@
 
 Firefox extension that replaces occurrences of 'curvy' with 'fat' and 'fat' with 'honest'.
 
-[Direct download](/CurvyToFat.xpi?raw=true) of the XPI file or from the [Mozilla Add-Ons website](https://addons.mozilla.org/en-US/firefox/addon/curvytofat/)
+Chrome version is [here](https://github.com/DontBelieveTheByte/CurvyToFat) or on the [Google Play Store](https://chrome.google.com/webstore/detail/curvy-to-fat/djfiplfmndogeagnelpbjjnglflialbg). 
 
-Chrome version is [here](https://github.com/DontBelieveTheByte/CurvyToFat). 
+Safari version is [here](https://github.com/DontBelieveTheByte/CurvyToFat-safari)
 
 ### Installation
 
-In Chrome, choose Setting > Extensions.  Drag CurvyToFat.crx into the page that appears.
+___
+
+From the [Mozilla Add-Ons website](https://addons.mozilla.org/en-US/firefox/addon/curvytofat/)
+
+___
+
+
+Or manual installation.
+
+[Direct download](/CurvyToFat.xpi?raw=true) of the XPI file
+
+___
 
 ### Example
 
